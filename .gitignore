@@ -3,6 +3,9 @@ capsnet-keras/not_ok
 capsnet-keras/dont_know
 capsnet-keras/raw
 
+temp.npz
+*.h5
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
